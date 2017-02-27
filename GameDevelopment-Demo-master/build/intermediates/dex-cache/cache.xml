@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.5/71eba1332b3c2436d3b8e24296a0feb1c01d9e67/gdx-freetype-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.5_c4d83b3271cdef5f938e5f377664a59990173849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.5_82229dd8b19f39b54f45800a7be5bfb182047984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-1.9.5_04bc42508383d0a8f84865ff63ea08225f942571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.5_d258db775cfed7ee0a3cd2f2d3e89b3a9cdc2f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.5_82229dd8b19f39b54f45800a7be5bfb182047984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-1.9.5_04bc42508383d0a8f84865ff63ea08225f942571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.5/71eba1332b3c2436d3b8e24296a0feb1c01d9e67/gdx-freetype-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.5_c4d83b3271cdef5f938e5f377664a59990173849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/Downloads/GameDevelopment-Demo-master/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5535467ae2b165529d3648b789257d962c69a99">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/core-1.0_1a19494020e07cceca67529e0cda8f369fe10547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nikita/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/home/nikita/Downloads/GameDevelopment-Demo-master/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.5_d258db775cfed7ee0a3cd2f2d3e89b3a9cdc2f54.jar" />
+    </item>
+
+</items>
